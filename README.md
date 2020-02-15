@@ -5,3 +5,5 @@ Any developer looking at the code with basic understanding of html5 and css shou
 
 Please contact Michael Hoyt m.mikehoyt@outlook.com for any further issues or questions. 7 day warranty is included.
 Thank you,
+
+Please note, we can easily revert back to the previous version of your website if you would like a full refund.
